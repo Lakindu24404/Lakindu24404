@@ -102,26 +102,22 @@ status      : "Open to backend internships ✅"
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ● 2025 – Now   Web Developer · Rooster Web Development             │
-│                 WordPress customization · Premium themes ·           │
-│                 Plugin dev · Responsive UI delivery                  │
-├─────────────────────────────────────────────────────────────────────┤
-│  ● 2021 – Now   Web Developer · Self-Employed (Online)              │
-│                 5+ websites for schools & businesses ·              │
-│                 End-to-end maintenance · Bug fixes ·                │
-│                 Performance optimization                             │
-├─────────────────────────────────────────────────────────────────────┤
-│  ● 2021 – Now   Event Planner · Self-Employed                       │
-│                 15+ events organized for clubs & societies ·        │
-│                 Adaptive planning · Seamless execution              │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 🌐 Web Developer | Rooster Web Development *(2025 – Present)*
+- Developed and customised **WordPress websites** using premium themes, plugins, and hardcoded elements
+- Delivered responsive, user-friendly interfaces tailored to client specifications
+
+### 💻 Web Developer | Self-Employed *(2021 – Present)*
+- Developed and maintained **5+ responsive websites** for schools and businesses
+- Handled end-to-end maintenance: updates, bug fixes, and performance optimization
+
+### 🎪 Event Planner | Self-Employed *(2021 – Present)*
+- Organized **15+ events** for school societies and clubs
+- Adapted plans flexibly for smooth and successful execution
 
 ---
+
 
 ## 🚀 Projects
 
