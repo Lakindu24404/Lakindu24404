@@ -145,11 +145,7 @@ I'm a dynamic **2nd-year Computer Science undergraduate** at the **University of
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakindu24404)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakindujaythilaka24404@gmail.com)
 
-### 💡 *"Let's build something scalable and amazing together!"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lakindu24404&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
