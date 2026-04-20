@@ -176,12 +176,7 @@ status      : "Open to backend internships ✅"
 
 ---
 
-## 🌐 Languages
 
-```
-Sinhala  ████████████████████  Native
-English  ████████████████░░░░  Fluent
-```
 
 ---
 
