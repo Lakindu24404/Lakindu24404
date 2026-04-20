@@ -7,19 +7,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=180&section=header&text=Lakindu%20Jayathilaka&fontSize=48&fontColor=cae8ff&fontAlignY=38&desc=Backend%20%26%20Frontend%20Developer%20%7C%20CS%20Undergraduate%20%40%20UoW%20via%20IIT&descAlignY=60&descColor=90c8f8&animation=fadeIn" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=50&duration=2000&pause=500&color=00B4D8&center=true&vCenter=true&width=650&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Lakindu+Jayathilaka;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+<h3>
+  🎓 BSc Computer Science Undergraduate | 💻 Backend & Frontend Developer Intern
+</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<p style="font-size: 18px; font-style: italic;">
+  "Building scalable applications, one commit at a time 🚀"
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E+lakindu%40dev%3A~%24+whoami;Backend+Engineer+in+the+Making...;PHP+%7C+MySQL+%7C+React+%7C+WordPress+%7C+Node.js;CTF+Finalist+%7C+NASA+Space+Apps+Challenger+%F0%9F%9A%80;Building+Scalable+Apps+from+Colombo+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=750&lines=Full-Stack+Developer+%7C+WordPress+Specialist;Backend+Enthusiast+%7C+PHP+%26+SQL+Expert;AI+%26+Cybersecurity+Explorer+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
+
 
 <div align="center">
 
